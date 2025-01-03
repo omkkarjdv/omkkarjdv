@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @omkkarjdv
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Data Structures & Algorithms
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Data Science & Machine Learning Projects
 - 📫 How to reach me Email-omkkarjdvv@gmail.com
 
 <!---
